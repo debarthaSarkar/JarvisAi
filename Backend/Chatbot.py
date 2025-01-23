@@ -1,3 +1,4 @@
+#Day 2 work
 from groq import Groq
 from json import load, dump
 import datetime
