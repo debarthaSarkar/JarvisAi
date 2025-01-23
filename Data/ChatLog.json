@@ -1,0 +1,334 @@
+[
+    {
+        "role": "assistant",
+        "content": "Hello Debartha Sarkar! I'm Prime, your advanced AI chatbot. I'm ready to assist you with the latest information. What's your question?"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you forgot to ask a question! Please go ahead and ask me anything, and I'll do my best to provide a helpful response."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "It's Thursday, January 23, 2025."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "2025."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "January."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "23."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "Thursday."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "No, I'm not human. I'm a computer program designed to simulate conversations and answer questions to the best of my knowledge."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "I'm an AI chatbot."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "Prime."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "I'm an advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "What is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "My name is Prime."
+    },
+    {
+        "role": "user",
+        "content": "What is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Debartha Sarkar."
+    },
+    {
+        "role": "user",
+        "content": "What is my mothers name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have that information. I only know your name as Debartha Sarkar, but I don't have any additional personal information about you or your family."
+    },
+    {
+        "role": "user",
+        "content": "remember my mother's name is Runa Sarkar"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that your mother's name is Runa Sarkar. I'll remember that for our conversation."
+    },
+    {
+        "role": "user",
+        "content": "What is my mother's name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Runa Sarkar."
+    },
+    {
+        "role": "user",
+        "content": "What is the name of my mother?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Runa Sarkar."
+    },
+    {
+        "role": "user",
+        "content": "What is my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I don't have that information. I don't know your age."
+    },
+    {
+        "role": "user",
+        "content": "What is my mother's name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Runa Sarkar."
+    },
+    {
+        "role": "user",
+        "content": "What is my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I still don't have that information. I don't know your age."
+    },
+    {
+        "role": "user",
+        "content": "Hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "What's my mother name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's name is Runa Sarkar."
+    },
+    {
+        "role": "user",
+        "content": "What's my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I still don't know your age."
+    },
+    {
+        "role": "user",
+        "content": "Remember my age is 19"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that your age is 19."
+    },
+    {
+        "role": "user",
+        "content": "What's my age?"
+    },
+    {
+        "role": "assistant",
+        "content": "You're 19 years old."
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me about your self"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Prime, an advanced AI chatbot designed to simulate conversations and answer questions to the best of my knowledge. I have real-time access to the internet and can provide information on a wide range of topics. I'm here to help and assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": "Who is tony strak"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark, also known as Iron Man, is a fictional character and superhero in the Marvel Comics universe. He is a billionaire inventor and industrialist who creates a powered exoskeleton suit to save his life and later uses it to fight crime and protect the world from various threats."
+    },
+    {
+        "role": "user",
+        "content": "What is pig?"
+    },
+    {
+        "role": "assistant",
+        "content": "A pig is a domesticated mammal and a member of the pig family, Suidae. Pigs are omnivores, and they are often raised on farms for their meat, known as pork."
+    },
+    {
+        "role": "user",
+        "content": "Remember pig is also moni pig"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that \"pig\" can also refer to \"Moni Pig\" in our conversation."
+    },
+    {
+        "role": "user",
+        "content": "What is pig?"
+    },
+    {
+        "role": "assistant",
+        "content": "A pig can refer to a domesticated mammal and a member of the pig family, Suidae, often raised on farms for their meat, known as pork. It can also refer to \"Moni Pig\"."
+    },
+    {
+        "role": "user",
+        "content": "Who is tony strak?"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark, also known as Iron Man, is a fictional character and superhero in the Marvel Comics universe. He is a billionaire inventor and industrialist who creates a powered exoskeleton suit to save his life and later uses it to fight crime and protect the world from various threats."
+    },
+    {
+        "role": "user",
+        "content": "Remember Tony Stark is also one of  my favorite character"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that Tony Stark, also known as Iron Man, is one of your favorite characters."
+    },
+    {
+        "role": "user",
+        "content": "Who is tony strak?"
+    },
+    {
+        "role": "assistant",
+        "content": "Tony Stark, also known as Iron Man, is a fictional character and superhero in the Marvel Comics universe. He is a billionaire inventor and industrialist who creates a powered exoskeleton suit to save his life and later uses it to fight crime and protect the world from various threats. He's also one of your favorite characters!"
+    },
+    {
+        "role": "user",
+        "content": "Remember my Mother's birthday is 17 October 1979"
+    },
+    {
+        "role": "assistant",
+        "content": "I've noted that your mother's birthday is October 17, 1979."
+    },
+    {
+        "role": "user",
+        "content": "When is my mother's birthday?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your mother's birthday is October 17, 1979."
+    },
+    {
+        "role": "user",
+        "content": "Tell about my mother"
+    },
+    {
+        "role": "assistant",
+        "content": "I know a few things about your mother! Her name is Runa Sarkar, and her birthday is October 17, 1979."
+    },
+    {
+        "role": "user",
+        "content": "How old is she?"
+    },
+    {
+        "role": "assistant",
+        "content": "Since I know her birthdate, I can calculate her age. However, I would need to know the current year to give you an accurate answer. If you provide the current year, I can tell you how old your mother is."
+    },
+    {
+        "role": "user",
+        "content": "What is the current year?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current year is 2025."
+    },
+    {
+        "role": "user",
+        "content": "Now tell me her age"
+    },
+    {
+        "role": "assistant",
+        "content": "Based on her birthdate, October 17, 1979, and the current year, 2025, I can calculate her age.\n\nYour mother, Runa Sarkar, is 46 years old."
+    }
+]
