@@ -1,1 +1,34 @@
-
+[
+    {
+        "role": "user",
+        "content": "What is the stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of the current time, 11:22:07 on Friday, January 24, 2025, the stock price of Apple (AAPL) is $223.66, which is the closing price. The day's open was $224.74, with an intraday high of $227.03 and an intraday low of $222.30."
+    },
+    {
+        "role": "user",
+        "content": "What is the stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of the current time, 11:22:18 on Friday, January 24, 2025, the stock price of Apple (AAPL) is $223.66, which is the closing price. The day's open was $224.74, with an intraday high of $227.03 and an intraday low of $222.30."
+    },
+    {
+        "role": "user",
+        "content": "What is the current temperature in Baruipur?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of the current time, 11:24:43 on Friday, January 24, 2025, the current temperature in Baruipur is 17\u00b0C (65\u00b0F)."
+    },
+    {
+        "role": "user",
+        "content": "What is the current temperature in Sikkim?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of the current time, 11:24:59 on Friday, January 24, 2025, the current temperature in Gangtok, Sikkim is 48\u00b0F (9\u00b0C) with some clouds."
+    }
+]
