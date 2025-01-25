@@ -30,5 +30,29 @@
     {
         "role": "assistant",
         "content": "As of the current time, 11:24:59 on Friday, January 24, 2025, the current temperature in Gangtok, Sikkim is 48\u00b0F (9\u00b0C) with some clouds."
+    },
+    {
+        "role": "user",
+        "content": "What is the stock price of apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of the current time, 11:33:11 on Saturday, January 25, 2025, the stock price of Apple (AAPL) is $223.91, with an open of $224.63, a high of $227.01, and a low of $219.85."
+    },
+    {
+        "role": "user",
+        "content": "Hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "How is Saif ali khan now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the latest news, Saif Ali Khan has been discharged from the hospital and has returned home. He was attacked and suffered multiple stab injuries, but fortunately, he has made a quick recovery."
     }
 ]
